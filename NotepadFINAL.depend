@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1482437486 source:c:\users\anonmonster\desktop\prolab\notepadfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1485803832 source:c:\users\anonmonster\desktop\prolab\notepad\notepadfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
